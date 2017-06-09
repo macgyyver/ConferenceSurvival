@@ -1,9 +1,17 @@
-<h2>Essentials</h2>
+<h2>Tech Essentials</h2>
 Computer
 power cord
+Lightning charging cable
 usb stick/external storage
 notebook
 pen or pencil x2
+
+<h2> Tech Accessories </h2>
+iPad
+Apple Pencil
+Selfie Stick
+Booster pack
+Charging cables
 
 <h2> Personal comfort </h2>
 sweater (Long conference fleece vest)
@@ -20,3 +28,4 @@ particulate respor mask
 claritin
 aleve
 Licorice pastilles
+
