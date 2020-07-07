@@ -2,7 +2,10 @@
 Computer
 power cord
 Lightning charging cable
-usb stick/external storage
+USB stick/external storage
+USB Hub adapter
+HDMI cable
+HDMI adapter if no port on laptop
 notebook
 pen or pencil x2
 
