@@ -2,7 +2,10 @@
 Computer
 power cord
 Lightning charging cable
-usb stick/external storage
+USB stick/external storage
+USB Hub adapter
+HDMI cable
+HDMI adapter if no port on laptop
 notebook
 pen or pencil x2
 
@@ -10,8 +13,8 @@ pen or pencil x2
 iPad?
 Apple Pencil
 Selfie Stick
-multi-tap
-Booster pack (with charging cable)
+multi-tap power adapter w/USB
+Booster pack (with it's charging cable)
 Charging cables
 
 <h2> Personal comfort </h2>
@@ -25,8 +28,8 @@ water bottle
 
 <h2> Health </h2>
 inhaler
-particulate respor mask
+Respro Allergy/particulate mask
 claritin
 aleve
-Licorice pastilles
+Licorice heartburn pastilles
 
